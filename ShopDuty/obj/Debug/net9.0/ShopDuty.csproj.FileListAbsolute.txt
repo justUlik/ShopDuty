@@ -1,0 +1,14 @@
+/Users/ulyanaeskova/RiderProjects/ShopDuty/ShopDuty/bin/Debug/net9.0/ShopDuty
+/Users/ulyanaeskova/RiderProjects/ShopDuty/ShopDuty/bin/Debug/net9.0/ShopDuty.deps.json
+/Users/ulyanaeskova/RiderProjects/ShopDuty/ShopDuty/bin/Debug/net9.0/ShopDuty.runtimeconfig.json
+/Users/ulyanaeskova/RiderProjects/ShopDuty/ShopDuty/bin/Debug/net9.0/ShopDuty.dll
+/Users/ulyanaeskova/RiderProjects/ShopDuty/ShopDuty/bin/Debug/net9.0/ShopDuty.pdb
+/Users/ulyanaeskova/RiderProjects/ShopDuty/ShopDuty/obj/Debug/net9.0/ShopDuty.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulyanaeskova/RiderProjects/ShopDuty/ShopDuty/obj/Debug/net9.0/ShopDuty.AssemblyInfoInputs.cache
+/Users/ulyanaeskova/RiderProjects/ShopDuty/ShopDuty/obj/Debug/net9.0/ShopDuty.AssemblyInfo.cs
+/Users/ulyanaeskova/RiderProjects/ShopDuty/ShopDuty/obj/Debug/net9.0/ShopDuty.csproj.CoreCompileInputs.cache
+/Users/ulyanaeskova/RiderProjects/ShopDuty/ShopDuty/obj/Debug/net9.0/ShopDuty.dll
+/Users/ulyanaeskova/RiderProjects/ShopDuty/ShopDuty/obj/Debug/net9.0/refint/ShopDuty.dll
+/Users/ulyanaeskova/RiderProjects/ShopDuty/ShopDuty/obj/Debug/net9.0/ShopDuty.pdb
+/Users/ulyanaeskova/RiderProjects/ShopDuty/ShopDuty/obj/Debug/net9.0/ShopDuty.genruntimeconfig.cache
+/Users/ulyanaeskova/RiderProjects/ShopDuty/ShopDuty/obj/Debug/net9.0/ref/ShopDuty.dll
